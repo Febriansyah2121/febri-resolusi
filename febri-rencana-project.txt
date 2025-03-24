@@ -4,3 +4,4 @@ RENCANA PROJECT FEBRI
 - bikin web
 - perbanyak relasi
 - bikin web bermanfaat
+- bikin fundamental databases,api,front end ui
