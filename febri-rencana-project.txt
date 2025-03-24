@@ -5,3 +5,7 @@ RENCANA PROJECT FEBRI
 - perbanyak relasi
 - bikin web bermanfaat
 - bikin fundamental databases,api,front end ui
+- belajar ui/ux
+- belajar laravel
+- pyhton
+- belajar react
