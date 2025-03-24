@@ -8,3 +8,4 @@ RENCANA PROJECT FEBRI
 - belajar ui/ux
 - belajar laravel
 - pyhton
+- belajar react
