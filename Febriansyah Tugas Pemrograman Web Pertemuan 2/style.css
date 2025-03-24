@@ -1,0 +1,65 @@
+body {
+    /* untuk mengatur tulisan */
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+.menu {
+    /* untuk mengatur posisi menu */
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.menu li {
+    margin-right: 70px; /* Jarak antar menu */
+}
+.menu a {
+    /* untuk mengatur style menu */
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.nim-box {
+    /* untuk mengatur posisi nim */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.nim-box span {
+    /* untuk mengatur style nim */
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.color-box {
+    /* untuk mengatur style kotak warna */
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+    text-align: center;
+    line-height: 30px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+}
+
+.tengah {
+    /* untuk mengatur posisi text */
+text-align: center;
+}
+
+/* untuk mengatur warna kotak */
+.color-box:nth-of-type(1) { background-color: red; }
+.color-box:nth-of-type(2) { background-color: orange; }
+.color-box:nth-of-type(3) { background-color: yellow; }
+.color-box:nth-of-type(4) { background-color: lightblue; }
+.color-box:nth-of-type(5) { background-color: gray; }
+.color-box:nth-of-type(6) { background-color: black; }
+.color-box:nth-of-type(7) { background-color: pink;}
+.color-box:nth-of-type(8) { background-color: purple; }
+.color-box:nth-of-type(9) { background-color: brown; }
