@@ -2,6 +2,8 @@ RENCANA PROJECT FEBRI
 - portofolio
 *untuk kerja
 - bikin web
+* web bermanfaat
 - perbanyak relasi
 - bikin web bermanfaat
 - bikin fundamental databases,api,front end ui
+- belajar ui/ux
